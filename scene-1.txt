@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Harry Programmer and the Sorcerers Code: Scene 1
+=======
+Harry Programmer and the Sorcerers Code: Scene 1
+>>>>>>> c502ae90ef604f4ed3b1eec1294f8595903b5506
